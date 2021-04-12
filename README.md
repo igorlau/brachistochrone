@@ -12,6 +12,4 @@ Finally, the script 'RUN_brachistochrone.m' is responsible for defining the numb
 
 The problem is optimized using the 'SQP' (Sequential Quadratic Programming) algorithm and the built-in MatLab function 'fmincon'. The problem is solved following these steps: the X-distance is determined by means of the number of discretizations. Than the initial y-guesses are defined as to make a straight line between A and B. These parameters combined with the problem restrictions, i.e. the initial and final point are passed as input in the MatLab built-in function. Hence the function outputs the y-values that corresponds to the minimal time to go from A to B.
 
-a future work corresponds to optimize the values of x as well, since in the adopted modeling these values are fixed and only the values of y are optimized
-
 A further work to do is to optimize the x-values as well, since in the modeling adopted these values are fixed according to the number of discretizations and only the y-values are optimized.
