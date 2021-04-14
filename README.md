@@ -1,6 +1,6 @@
 # brachistochrone
 
-The brachistochrone is a curve that represents the fastest descent between two points, i.e. is the curve on which a ball slides subjected to a uniform gravitational field from a point A to a lower point B in the shortest time.
+## The brachistochrone is a curve that represents the fastest descent between two points, i.e. is the curve on which a ball slides subjected to a uniform gravitational field from a point A to a lower point B in the shortest time.
 
 The problem was modeled in MatLab by means of two functions and a script. 
 
